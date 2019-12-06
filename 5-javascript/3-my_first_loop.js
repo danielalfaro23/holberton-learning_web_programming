@@ -1,5 +1,6 @@
 var i = 0;
-var num= "";
-while (i<10) { num + i;
 
+while (i<10) {
+console.log(i);
+i = i +1
 }
